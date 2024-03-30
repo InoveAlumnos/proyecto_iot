@@ -6,7 +6,7 @@ Web: [Inove](http://inove.com.ar)
 # Proyectos de Python IoT [Python]
 En el PDF "proyecto.pdf" se encuentra detallado el objetivo que se debe alcanzar en este proyecto
 
-[Proecto PDF](https://github.com/InoveAlumnos/proyecto_iot/blob/main/proyecto.pdf)
+[Proyecto PDF](https://github.com/InoveAlumnos/proyecto_iot/blob/main/proyecto.pdf)
 
 
 Cualquier duda o problema con la descarga del dataset nos consulta.
